@@ -1,4 +1,4 @@
-var port = process.env.PORT || 3030,
+var port = process.env.PORT || 8080,
     http = require('http'),
     fs = require('fs'),
     html = fs.readFileSync('index.html');
