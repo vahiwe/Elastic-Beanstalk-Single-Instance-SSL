@@ -3,6 +3,10 @@
   "version": "0.0.1",
   "private": true,
   "dependencies": {},
+  "engines": {
+    "node": "12.16.3",
+    "npm": "6.14.8"
+  },
   "scripts": {
     "start": "node app.js"
   }
